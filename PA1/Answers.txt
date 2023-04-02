@@ -1,0 +1,10 @@
+Q1.
+ Independent variables are : Age , Gender , Over 18 years old , Job Role ,Project Involvement.
+ dependent variables are : Job Level , Salary , Years At Company , Years In Current Role.
+
+Q2 . 
+ Y = W1*X1 + W2*X2 + W3*X3 +W4*X4 + W5*X5 + W6*X6 + b
+
+Q3 .
+
+The expected salary of the employee is : 4898
